@@ -61,11 +61,14 @@ export function Footer() {
                 </a>
               </li>
               <li className="text-sm text-slate-400">
-                +91 XXXXX XXXXX
+                <a href="tel:+918064055042" className="hover:text-white transition-colors">
+                  +91 80 6405 5042
+                </a>
               </li>
               <li className="text-sm text-slate-400 mt-4 leading-relaxed">
-                Global Operations Center<br />
-                Available 24/7
+                No.169/A, Second Floor<br />
+                13th Main Road, HAL 2nd Stage<br />
+                Indiranagar, Bangalore - 560008
               </li>
             </ul>
           </div>

@@ -73,7 +73,7 @@ export default function ContactPage() {
             <div>
               <h4 className="text-lg font-bold text-white mb-1">Call Us</h4>
               <p className="text-slate-400 mb-2">Mon-Fri from 8am to 5pm.</p>
-              <p className="text-white">+91 XXXXX XXXXX</p>
+              <a href="tel:+918064055042" className="text-white hover:text-primary transition-colors">+91 80 6405 5042</a>
             </div>
           </div>
 
@@ -82,8 +82,8 @@ export default function ContactPage() {
               <MapPin className="h-5 w-5 text-primary" />
             </div>
             <div>
-              <h4 className="text-lg font-bold text-white mb-1">Global HQ</h4>
-              <p className="text-slate-400">100 Tech Hub Boulevard<br/>Suite 300<br/>San Francisco, CA 94107</p>
+              <h4 className="text-lg font-bold text-white mb-1">Office</h4>
+              <p className="text-slate-400">No.169/A, Second Floor<br/>13th Main Road, HAL 2nd Stage<br/>Indiranagar, Bangalore - 560008</p>
             </div>
           </div>
         </motion.div>
